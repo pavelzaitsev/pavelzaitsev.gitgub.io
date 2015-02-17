@@ -2,11 +2,12 @@
 <html>
   <head>
     <title>
-    Home "Smile Coffee"
+    About "Smile Coffee"
     </title>
   </head>
 
   <body>
+
     <table border="2" cellpadding="10">
     <tr height="200">
     <td colspan="2">
@@ -23,9 +24,6 @@
       <li><a href="http://smilecoffee.by/about.html"> About</a>
       </li>
 
-      <li><a href="http://smilecoffee.by/places.html"> Menu</a>
-      </li>
-
       <li><a href="http://smilecoffee.by/places.html"> Places</a>
       </li>
 
@@ -36,21 +34,35 @@
 
   <td width="800" height="500" valign="top">
 
-  <p>
+  <p>  
+  <center>
   <h1> Mobile Coffee Shop </h1>
+  </center>
   </p>
 
-  <p> Mobile coffee shop with a trade mark "Smile Coffee"
+  <p> "Smile Coffee" is new and unique type of public catering in the Republic of Belarus.
+  Our mobile coffee shop specializes only in making high quality coffee beverages using experience gained from “Lavazza” barista courses.
   </p>
 
   <p>
-  <img src="http://minsknews.by/wp-content/uploads/2014/06/Mobilnaya-kofeynya.jpg"/>
+  The project by itself includes regular car “Smart Fortwo”, which is re-equipped especially for mobile coffee shop.
   </p>
 
   <p>
-  Find us on the streets & different entertainment events! ;)
+  The business project includes ten mobile coffee machines.
   </p>
 
+  <p>
+  Short video presentation about our mobile cafe (starting at 3:01):
+  </p>
+
+  <p>
+  <video>
+    <source src="https://www.youtube.com/watch?v=UeENMuhdiLs">
+  </video>  
+  </p>
+
+  
   </td>
   </tr>
 
